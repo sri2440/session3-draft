@@ -1,0 +1,9 @@
+.container{width: 2000px;
+    margin: auto;
+}
+.row{display: flex;
+flex-wrap:wrap ;}
+.bow1{width: 40%;
+margin: auto;}
+.bow2{width: 40%;
+margin: auto;}
